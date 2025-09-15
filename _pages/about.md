@@ -1,4 +1,4 @@
-n---
+---
 permalink: /
 title: "Aloha! `O Nathalie Jones kou inoa 🪐"
 author_profile: true
