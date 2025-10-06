@@ -13,6 +13,7 @@ Hello! My name is Nathalie Jones 🪐
 * I am also a 2025-2026 CIERA Board of Visitors Fellow.
 
 Link to my paper on new planet [HD 143811 AB b](https://arxiv.org/abs/2509.06729) (submitted to ApJL).
+Link to the paper on the host spectroscopic binary by [Peck et al.](https://arxiv.org/abs/2509.06727).
 
 ## About Me:
 I am from Honolulu, Hawai`i and am part Native Hawaiian. 
