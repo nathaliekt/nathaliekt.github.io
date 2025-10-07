@@ -10,10 +10,10 @@
 main:
 
   - title: "CV"
-    url: /files/CV_2025_outrch.pdf
+    url: /files/CV_2025_website_draft.pdf
     
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
