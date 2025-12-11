@@ -12,9 +12,9 @@ Hello! My name is Nathalie Jones 🪐
 * I work with Professor Jason Wang and am part of the [BOBA](https://jasonwang.space/#group) group. We study exoplanet direct imaging!
 * I am a 2025-2026 CIERA Board of Visitors Fellow.
 
-Link to my paper on new planet [HD 143811 AB b](https://arxiv.org/abs/2509.06729) (accepted, ApJL).
+Link to my paper on new planet [HD 143811 AB b](https://iopscience.iop.org/article/10.3847/2041-8213/ae2007).
 
-Link to the parallel paper on the host spectroscopic binary by [Peck et al.](https://arxiv.org/abs/2509.06727) (accepted, ApJL).
+Link to the parallel paper on the host spectroscopic binary by [Peck et al.](https://iopscience.iop.org/article/10.3847/2041-8213/ae1a67).
 
 ## About Me:
 I grew up in Honolulu, Hawai`i and am part Native Hawaiian.
