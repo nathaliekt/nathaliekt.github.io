@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aloha! `O Nathalie Jones kou inoa 🪐"
+title: "Aloha! `O Nathalie Jones ko'u inoa 🪐"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ Hello! My name is Nathalie Jones 🪐
 
 Link to my paper on new planet [HD 143811 AB b](https://iopscience.iop.org/article/10.3847/2041-8213/ae2007).
 
-Link to the parallel paper on the host spectroscopic binary by [Peck et al.](https://iopscience.iop.org/article/10.3847/2041-8213/ae1a67).
+Link to the parallel [Peck et al.](https://iopscience.iop.org/article/10.3847/2041-8213/ae1a67) paper on the host spectroscopic binary.
 
 ## About Me:
 I grew up in Honolulu, Hawai`i and am part Native Hawaiian.
