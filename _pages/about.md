@@ -26,4 +26,6 @@ I attended Bard College for undergrad and majored in Physics.
 ## My Current Research Project
 My research focuses on the Gemini Planet Imager Exoplanet Survey (GPIES) and in particular, the remaining planet candidates within the data. GPIES was the largest direct imaging exoplanet survey to date -- observing 600 nearby, young stars in a systematic search for young, Jovian exoplanets. The survey discovered one new planet, 51 Eri b, and through my work on vetting remaining candidates, we were able to confirm the detection of HD 143811 AB b, the closet in directly imaged planet around a binary star.
 
-By extracting astrometry and spectroscopy of each detected companion from the data, I am able to rule out the object as a background object or as a promising potential planet. Astrometry is utilized through analyzing the common proper motion of the object (following De Rosa + 2015). We also perform spectral comparions to "template" spectra from theoretical stellar (PHOENIX; Husser+2013) and exoplanet atmosphere models (ExoREM; Charnay+2018), as well as empirical brown dwarf spectra (SPLAT; Burgasser+2017).
+<img src="/images/orbit.gif" alt="Orbit movie of HD 143811 AB b" width="300">
+
+Orbit movie of HD 143811 AB b (J. Wang)
