@@ -1,5 +1,5 @@
 ---
-title: "Old Data, New Planet: Finding Candidate Companions from the Gemini Planet Imager Exoplanet Survey"
+title: "Old Data, New Planet: Finding Candidate Companions from the Gemini Planet Imager Exoplanet Survey"
 collection: talks
 type: "Contributing Talk"
 permalink: /talks/SoL6.md
